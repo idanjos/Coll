@@ -1,0 +1,1 @@
+../../../CVRProductionTool/CVRProductionTool.uproject  /Game/VirtualRealityBP/Maps/MotionControllerMap -Messaging -SessionId=AEE9F0074C0FEE329B5EB2B132A7933A -SessionOwner="W10" -SessionName="Launch On Device" -iterative

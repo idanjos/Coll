@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "CVRProductionTool",
+			"Path": "C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Source\\CVRProductionTool.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "CVRProductionToolEditor",
+			"Path": "C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Source\\CVRProductionToolEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-CVRProductionTool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\CVRProductionToolEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\UE4Editor\Development\CVRProductionTool\CVRProductionTool.cpp.obj"
+"C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\UE4Editor\Development\CVRProductionTool\MyClass.cpp.obj"
+"C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\UE4Editor\Development\CVRProductionTool\Default.rc2.res"
+/OUT:"C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\UE4Editor\Development\CVRProductionTool\UE4Editor-CVRProductionTool.lib"
+/INCLUDE:IMPLEMENT_MODULE_CVRProductionTool

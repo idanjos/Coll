@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Source\\CVRProductionTool\\CVRProductionTool.Build.cs",
+		"C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Plugins\\VRExpansionPlugin\\OpenVRExpansionPlugin\\Source\\OpenVRExpansionPlugin\\OpenVRExpansionPlugin.Build.cs",
+		"C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Plugins\\VRExpansionPlugin\\VRExpansionPlugin\\Source\\VRExpansionPlugin\\VRExpansionPlugin.Build.cs",
+		"C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Source\\CVRProductionTool.Target.cs",
+		"C:\\Users\\W10\\Documents\\Unreal Projects\\CollaborativeCVRProductionTool\\src\\CVRProductionTool\\Source\\CVRProductionToolEditor.Target.cs"
+	],
+	"EngineVersion": "4.25.4"
+}

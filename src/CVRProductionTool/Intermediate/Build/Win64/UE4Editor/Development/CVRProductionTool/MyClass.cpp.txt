@@ -1,0 +1,2 @@
+C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Intermediate\Build\Win64\UE4Editor\Development\CVRProductionTool\Definitions.CVRProductionTool.h
+C:\Users\W10\Documents\Unreal Projects\CollaborativeCVRProductionTool\src\CVRProductionTool\Source\CVRProductionTool\MyClass.h
